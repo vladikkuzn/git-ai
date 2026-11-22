@@ -1,0 +1,26 @@
+src/commands/checkpoint_agent/presets/cursor.rs
+  s_a5fb5a5c32eac8::t_9bf83acfdabb61 51-53,288-289,291-296,299-302
+  s_a5fb5a5c32eac8::t_ad2a33e3310bc8 278-287,290,297-298,303-307
+  s_a5fb5a5c32eac8::t_9babc9745511b1 50
+  s_a5fb5a5c32eac8::t_f93ab1b46221c3 277
+tests/integration/cursor.rs
+  s_a5fb5a5c32eac8::t_ad2a33e3310bc8 376-391,397-398,404,416-417,425-426
+  s_a5fb5a5c32eac8::t_9bf83acfdabb61 392-396,399-403,405-415,418-424
+  s_a5fb5a5c32eac8::t_4de61805adf4ed 375
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "ba24350d7cdc564f11e0bc4ab9af01efc4d327ae",
+  "prompts": {},
+  "sessions": {
+    "s_a5fb5a5c32eac8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a2047d-f3c3-7643-b0dd-ac0b2a57a85e",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
